@@ -1,9 +1,6 @@
 # react-blogging-site
 # React.js Isomorphic Web Application Architecture
 Github- Bhor Sharma (goku-1399)
-<p align="center">
-    <img src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/cover-react-app.png">
-</p>
 <br>
 
 ## This is a React web application for a blogging platform. 
@@ -61,12 +58,8 @@ Following are the highlights of this project:
 * Writer Blogs Management
 * Editor Blogs Management
 
+
 <p float="left">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/1.png">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/2.png">
-</p>
-<p float="left">
-  <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/3.png">
   <img width="45%" src="https://raw.githubusercontent.com/janishar/react-app-architecture/master/.templates/github_assets/screenshots/4.png">
 </p>
 <p float="left">
